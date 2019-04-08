@@ -11,7 +11,7 @@ user_weight_converted = 0
 # normalize weight
 user_weight = int(user_weight)
 # normalize type user weight
-type_user_weight = str(type_user_weight).upper()
+type_user_weight = type_user_weight.upper()
 # find type to convert
 if type_user_weight == 'L':
     user_weight_converted = user_weight * lbs_kg
