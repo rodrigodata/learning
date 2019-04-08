@@ -26,9 +26,9 @@ while program_is_running:
         print('Car stopped.')
     elif command == 'HELP':
         print("""
-        start - start your car
-        stop - stop your car
-        quit - quit game
+start - start your car
+stop - stop your car
+quit - quit game
         """)
     elif command == 'QUIT':
         break
