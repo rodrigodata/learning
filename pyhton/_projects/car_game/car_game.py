@@ -6,6 +6,7 @@ program_is_running = True
 car_is_on = False
 car_is_offline = True
 
+
 while program_is_running:
     command = input('> ').upper()
 
