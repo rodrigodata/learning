@@ -3,5 +3,6 @@
 
 [Python 3](../../tree/feature/python)  
 [Algorithm](../../tree/feature/algorithm)
+[Rust](../../tree/feature/rust)
 
 
